@@ -8,6 +8,7 @@ Twotter
 | `deleteTweet()` | Delete a tweet you posted on your account. |
 | `getFollowers()`| Get followers of a chosen username you wish to look up. |
 | `retweet()` | Retweet something someone or yourself has already tweeted. |
+| `lookup()` | Lookup a username and get information about their user |
 ***
 #### Examples
 
@@ -37,6 +38,13 @@ return console.log(res);
 ```js
 const twotter = require("twotter").retweet;
 let res = twotter("192373892684562835");
+return console.log(res);
+```
+`lookup()` 
+*Lookup a username and get information about their user.*
+```js
+const twotter = require("twotter").lookup;
+let res = twotter("cyber_cdn");
 return console.log(res);
 ```
 [Official Repository](https://github.com/CyberCDN/twotter)

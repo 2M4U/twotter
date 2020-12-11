@@ -1,31 +1,31 @@
 {
-  "name": "twotter",
-  "version": "0.0.1",
-  "description": "The simplified Twitter NPM",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CyberCDN/twotter.git"
-  },
-  "keywords": [
-    "Twitter",
-    "twotter",
-    "twit",
-    "bird",
-    "simplified",
-    "npm",
-    "twit-remake"
-  ],
-  "author": "CyberCDN",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/CyberCDN/twotter/issues"
-  },
-  "homepage": "https://github.com/CyberCDN/twotter#readme"
+    "name": "twotter",
+    "version": "1.1.0",
+    "description": "Twitter Made Simple",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CyberCDN/twotter.git"
+    },
+    "keywords": [
+        "Twitter",
+        "twotter",
+        "twit",
+        "bird",
+        "simplified",
+        "npm",
+        "twit-remake"
+    ],
+    "author": "CyberCDN",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/CyberCDN/twotter/issues"
+    },
+    "homepage": "https://github.com/CyberCDN/twotter#readme"
 }
